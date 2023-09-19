@@ -1,0 +1,57 @@
+6-5-23
+44 minutes on video
+
+mess around with gradients and colors on hero text
+
+make the hamburger button a full block to click instead of only
+being able to click the 3 lines
+
+fix "talk to me" button so it resizes correctly 
+
+6-8-23
+https://heycarl.dev/home i really like the header on this site and how it 
+blurs the background; doesn't seem too hard to implement tbh
+
+6-9-23
+trying to get the project cards to look good on mobile, having trouble 
+(check chatgpt logs lol)
+
+6-12-23
+FINALLY GOT THE CARDS TO CHANGE SIZES FOR MOBILE
+(had to make just a small button instead of the whole card being a link)
+
+changed talk to me button to just say resume to make resizing work
+
+fixed hamburger button by increasing the hitbox on the bars
+
+changed nav bar to be blurry underneath
+
+need to do:
+-link to my resume in nav bar
+
+-add content for about section, add pic of me
+
+-add content for projects section, upload projects to git
+    -make new pages for each project
+
+-change layout and content for footer
+
+-work on projects link to send user to the projects section
+    -(see chatgpt logs)
+
+6-14-23
+made projects link scroll to projects section
+
+linked resume
+
+fixed footer layout and content
+
+need to do:
+-try to find out how to close the mobile menu after clicking a button
+
+-add malware png for the footer maybe
+
+-play with the fr for main_container to get layout to be more streamlined
+
+-keep working on about page
+
