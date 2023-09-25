@@ -535,7 +535,7 @@ body
     align-items: center;
     justify-self: center;
     margin: 0 auto;
-    height: 60vh;
+    height: 30vh;
     /* background-color: #353232; i dont like this color rn change it later maybe*/
     z-index: 1;
     width: 100%;
@@ -661,6 +661,32 @@ body
     height: 80%;
     width: 80%;
 }
+
+.text_stuff
+{
+    margin: 0 auto;
+    align-items: center;
+    /* height: 100vh; */
+    color: #fff;
+    max-width: 80%;
+    /* position: relative; */
+}
+
+.text_content
+{
+    display: flex;
+    /* grid-template-columns: 1fr 1fr; */
+    align-items: center;
+    justify-self: center;
+    /* margin: 0 auto; */
+    height: 40vh;
+    /* background-color: #353232; i dont like this color rn change it later maybe*/
+    z-index: 1;
+    width: 100%;
+    max-width: 1300px;
+    padding: 0 50px;
+}
+
 
 
 /* hero mobile response start */
