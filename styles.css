@@ -535,7 +535,7 @@ body
     align-items: center;
     justify-self: center;
     margin: 0 auto;
-    height: 30vh;
+    height: 50vh;
     /* background-color: #353232; i dont like this color rn change it later maybe*/
     z-index: 1;
     width: 100%;
@@ -547,7 +547,7 @@ body
 {
     font-size: 4rem;
     background-color: #8F43EE;
-    background-image: linear-gradient(to top, #6d0fe1 0%, #bfa1e5 100%);
+    /* background-image: linear-gradient(to top, #6d0fe1 0%, #bfa1e5 100%); */
     background-size: 100%;
     -webkit-background-clip: text;
     -moz-background-clip: text;
